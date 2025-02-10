@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing / coverage
+.tox/
+.nox/
+.coverage
+htmlcov/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Pre-commit
+.pre-commit-config.yaml
+.pre-commit-cache/
+
+# Mypy cache
+.mypy_cache/
+
+test-results/
+
+# IDE
+.idea

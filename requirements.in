@@ -1,0 +1,10 @@
+fastapi
+python-multipart
+pydantic
+uvicorn
+aiofiles
+redis
+celery
+sqlalchemy
+clickhouse-sqlalchemy
+python-dotenv
